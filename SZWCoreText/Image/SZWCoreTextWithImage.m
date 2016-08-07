@@ -85,7 +85,7 @@
     
     
     // 9.插入图片部分（图文混排）
-    // 为图片设置CTRunDelegate,delegate决定留给图片的空间大小
+    // 为图片设置CTRunDelegate, delegate决定留给图片的空间大小
     // CTRunDelegateCallbacks：一个用于保存指针的结构体 指定回调函数
     NSString *imgName = @"xiaobai";
     CTRunDelegateCallbacks imageCallBacks;
