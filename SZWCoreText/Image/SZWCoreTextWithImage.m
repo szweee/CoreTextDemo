@@ -16,7 +16,7 @@
 @implementation SZWCoreTextWithImage
 
 /*
- CTFramesetter:
+ CTFramesetter: 
  
  依赖一个富文本属性字符串
  根据这个富文本属性字符串，计算得到一个CTFrame
